@@ -1,5 +1,5 @@
 {
-  "version": "2.2.8",
-  "notes": "Améliorations internes de la chaîne de publication (aucun changement fonctionnel).",
+  "version": "2.2.9",
+  "notes": "Export : fusionner plusieurs séquences d'un même patient en un seul fichier (les séquences bout à bout). En sélection multiple, l'export pr…",
   "url": "https://github.com/rmntxr/Vor/releases/latest"
 }
